@@ -1,0 +1,1 @@
+Source code for Ghosh and Good (2021) "Emergent evolutionary forces in spatial models of luminal growth in the human gut microbiota", biorXiv. 
